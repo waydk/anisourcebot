@@ -1,3 +1,4 @@
-aiogram~=2.14.3
-environs~=29.3.3
-loguru~=0.5.3
+aiogram==2.14.3
+environs==9.3.3
+loguru==0.5.3
+PicImageSearch==2.1.1
