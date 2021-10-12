@@ -2,3 +2,5 @@ aiogram==2.14.3
 environs==9.3.3
 loguru==0.5.3
 PicImageSearch==2.1.1
+SQLAlchemy==1.4.25
+asyncpg==0.24.0
